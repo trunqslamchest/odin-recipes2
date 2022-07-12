@@ -1,0 +1,19 @@
+.text {
+    background-color: bisque;
+    color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header,
+.subheader {
+    font-size: 50px;
+    text-align: center;
+}
+
+.subheader{
+    font-size: 32px;
+}
+
+.list {
+    
+}
